@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Shareprefrence</string>
+    <string name="pref_file">pref_file</string>
+    <string name="count">count</string>
+</resources>
